@@ -1,0 +1,70 @@
+﻿
+@model Fleet
+
+
+<section id="ft-breadcrumb" class="ft-breadcrumb-section position-relative" data-background="/ege roro/assets/img/bg/bread-bg.jpg">
+    <span class="background_overlay"></span>
+    <span class="design-shape position-absolute"><img src="/ege roro/assets/img/shape/tmd-sh.png" alt=""></span>
+    <div class="container">
+        <div class="ft-breadcrumb-content headline text-center position-relative">
+            <h2>Ege Gaz-1</h2>
+            <div class="ft-breadcrumb-list ul-li">
+                <ul>
+                    <li><a href="#">Ana Sayfa</a></li>
+                    <li>Filomuz </li>
+                    <ul>
+                        @Model.Title
+                    </ul>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Start of Project details  section
+============================================= -->
+<section id="ft-project-details" class="ft-project-details-section page-padding">
+    <div class="container">
+        <div class="ft-project-overview">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="ft-project-details-img">
+                        <img src="@Model.Image" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="ft-portfolio-overview-text headline">
+                        <div class="project-title-overview text-center">
+                            <h3>Filo Bilgileri</h3>
+                        </div>
+                        <div class="ft-portfolio-overview-list-value">
+                            <div class="ft-portfolio-overview-list  ul-li-block">
+                                <ul>
+                                    <li>Gemi Adı: <span>@Model.ShipName</span></li>
+                                    <li>Bayrağı: <span>@Model.ShipFlag</span></li>
+                                    <li>Bağlama Limanı: <span>@Model.ShipDock</span></li>
+                                    <li>Yolcu Kapasitesi:  <span>@Model.ShipCapacity</span></li>
+                                    <li>Grt:  <span>306</span>@Model.ShipGrt</li>
+                                    <li>Dwt:  <span>360</span>@Model.ShipDwt</li>
+                                    <li>Tam Boy:  <span>47 m</span></li>
+                                    <li>Kütük Eni:  <span>13.8 m</span></li>
+                                    <li>Max. Sürat:  <span>11 kn</span></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="ft-project-overview-text-wrapper headline pera-content">
+            <h3>
+                @Model.Title
+            </h3>
+        </div>
+    </div>
+
+</section>
+<!-- End of Project details section
+    ============================================= -->

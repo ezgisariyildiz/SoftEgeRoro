@@ -1,0 +1,43 @@
+﻿@using EgeRoro.Entity.Concreate
+@model List<Crew>
+
+@foreach(var item in Model)
+{
+    <section id="ft-why-choose-2" class="ft-why-choose-section-2 position-relative">
+        <span class="why-choose-bg-2"><img src="@item.Image" alt=""></span>
+        <div class="container">
+            <div class="ft-why-choose-content-2">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="ft-why-choose-text-2">
+                            <div class="ft-section-title-3 headline">
+                                <h2>@item.Title</h2>
+                            </div>
+                            <div class="ft-why-choose-list-wrapper ul-li-block">
+                                <ul>
+                                    <li>Career progression</li>
+                                    <li>
+                                        Fasttrans offers a clear and transparent career
+                                        journey and provides the support
+                                    </li>
+                                    <li>Make long term business decisions</li>
+                                    <li>Provide a service we are proud of</li>
+                                    <li>Be a responsible member of the community</li>
+                                    <li>Always seek to improve</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="ft-about-img-wrapper-3 position-relative">
+                            <div class="ft-about-img-3">
+                                <img src="@item.Image" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}

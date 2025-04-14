@@ -1,0 +1,41 @@
+﻿@using EgeRoro.Entity.Concreate
+@model List<Fleet>
+
+
+<!-- Start of Service page section
+============================================= -->
+<section id="ft-service-page" class="ft-service-page-section page-padding">
+    <div class="container">
+
+        <div class="ft-service-page-items">
+            <div class="row">
+
+                @foreach (var item in Model)
+                {
+                    <div class="col-lg-4 col-md-6">
+                        <div class="ft-service-innerbox-2 position-relative">
+                            <div class="ft-service-img text-center">
+                                <a href="Fleet/Detail/@item.Id">
+                                    <img src="@item.Image" alt="">
+                                </a>
+                            </div>
+                            <div class="ft-service-text position-relative headline">
+                                <h3><a href="#">@item.Title</a></h3>
+                                <div class="ft-btn-2">
+                                    <a href="Fleet/Detail/@item.Id">
+                                        <i class="icon-first flaticon-right-arrow"></i>
+                                        <span>Detay</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="ft-service-serial position-absolute">
+                                @item.Id
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+</section>
+<!-- End of Service page section
+    ============================================= -->

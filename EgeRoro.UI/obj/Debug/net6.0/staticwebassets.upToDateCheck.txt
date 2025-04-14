@@ -1,0 +1,576 @@
+wwwroot\css\site.css
+wwwroot\ege roro\assets\assets\coloredbg.html
+wwwroot\ege roro\assets\assets\gridtile.html
+wwwroot\ege roro\assets\assets\gridtile_3x3.html
+wwwroot\ege roro\assets\assets\gridtile_3x3_white.html
+wwwroot\ege roro\assets\assets\gridtile_white.html
+wwwroot\ege roro\assets\assets\loader.html
+wwwroot\ege roro\assets\css\animate.css
+wwwroot\ege roro\assets\css\animated-slider.css
+wwwroot\ege roro\assets\css\bootstrap.min.css
+wwwroot\ege roro\assets\css\closedhand.html
+wwwroot\ege roro\assets\css\custom-animate.css
+wwwroot\ege roro\assets\css\flaticon.css
+wwwroot\ege roro\assets\css\flaticon-02.css
+wwwroot\ege roro\assets\css\fontawesome-all.css
+wwwroot\ege roro\assets\css\images\ui-icons_444444_256x240.html
+wwwroot\ege roro\assets\css\images\ui-icons_555555_256x240.html
+wwwroot\ege roro\assets\css\images\ui-icons_777620_256x240.html
+wwwroot\ege roro\assets\css\images\ui-icons_777777_256x240.html
+wwwroot\ege roro\assets\css\images\ui-icons_cc0000_256x240.html
+wwwroot\ege roro\assets\css\images\ui-icons_ffffff_256x240.html
+wwwroot\ege roro\assets\css\jquery.fancybox.min.css
+wwwroot\ege roro\assets\css\jquery.mCustomScrollbar.min.css
+wwwroot\ege roro\assets\css\jquery-ui.css
+wwwroot\ege roro\assets\css\nice-select.css
+wwwroot\ege roro\assets\css\openhand.html
+wwwroot\ege roro\assets\css\owl.carousel.min.css
+wwwroot\ege roro\assets\css\owl.video.play.html
+wwwroot\ege roro\assets\css\responsive.css
+wwwroot\ege roro\assets\css\rs6.css
+wwwroot\ege roro\assets\css\slick.css
+wwwroot\ege roro\assets\css\slick-theme.css
+wwwroot\ege roro\assets\css\style.css
+wwwroot\ege roro\assets\css\video.min.css
+wwwroot\ege roro\assets\fonts\fa-brands-400.ttf
+wwwroot\ege roro\assets\fonts\fa-duotone-900.ttf
+wwwroot\ege roro\assets\fonts\fa-light-300.ttf
+wwwroot\ege roro\assets\fonts\fa-regular-400.ttf
+wwwroot\ege roro\assets\fonts\fa-solid-900.ttf
+wwwroot\ege roro\assets\fonts\flaticon-02.html
+wwwroot\ege roro\assets\fonts\flaticon-02.svg
+wwwroot\ege roro\assets\fonts\flaticon-02.ttf
+wwwroot\ege roro\assets\fonts\flaticon-02.woff
+wwwroot\ege roro\assets\fonts\flaticon-02.woff2
+wwwroot\ege roro\assets\fonts\flaticon813b.html
+wwwroot\ege roro\assets\fonts\flaticon813b.svg
+wwwroot\ege roro\assets\fonts\flaticon813b.ttf
+wwwroot\ege roro\assets\fonts\flaticon813b.woff
+wwwroot\ege roro\assets\fonts\flaticon813b.woff2
+wwwroot\ege roro\assets\fonts\revicons\revicons90c6.html
+wwwroot\ege roro\assets\fonts\revicons\revicons90c6.svg
+wwwroot\ege roro\assets\fonts\revicons\revicons90c6.ttf
+wwwroot\ege roro\assets\fonts\revicons\revicons90c6.woff
+wwwroot\ege roro\assets\images\background\1.jpg
+wwwroot\ege roro\assets\images\background\2.jpg
+wwwroot\ege roro\assets\images\background\5.jpg
+wwwroot\ege roro\assets\images\background\6.jpg
+wwwroot\ege roro\assets\images\background\7.jpg
+wwwroot\ege roro\assets\images\background\8.jpg
+wwwroot\ege roro\assets\images\background\9.jpg
+wwwroot\ege roro\assets\images\background\pattern-1.png
+wwwroot\ege roro\assets\images\background\pattern-10.png
+wwwroot\ege roro\assets\images\background\pattern-11.png
+wwwroot\ege roro\assets\images\background\pattern-12.png
+wwwroot\ege roro\assets\images\background\pattern-2.png
+wwwroot\ege roro\assets\images\background\pattern-3.png
+wwwroot\ege roro\assets\images\background\pattern-4.png
+wwwroot\ege roro\assets\images\background\pattern-5.png
+wwwroot\ege roro\assets\images\background\pattern-6.png
+wwwroot\ege roro\assets\images\background\pattern-7.png
+wwwroot\ege roro\assets\images\background\pattern-8.png
+wwwroot\ege roro\assets\images\background\pattern-9.png
+wwwroot\ege roro\assets\images\clients\1.png
+wwwroot\ege roro\assets\images\clients\2.png
+wwwroot\ege roro\assets\images\clients\3.png
+wwwroot\ege roro\assets\images\clients\4.png
+wwwroot\ege roro\assets\images\favicon.png
+wwwroot\ege roro\assets\images\footer-logo.png
+wwwroot\ege roro\assets\images\footer-logo-1.png
+wwwroot\ege roro\assets\images\gallery\1.jpg
+wwwroot\ege roro\assets\images\gallery\2.jpg
+wwwroot\ege roro\assets\images\gallery\3.jpg
+wwwroot\ege roro\assets\images\gallery\4.jpg
+wwwroot\ege roro\assets\images\gallery\footer-gallery-thumb-1.jpg
+wwwroot\ege roro\assets\images\gallery\footer-gallery-thumb-2.jpg
+wwwroot\ege roro\assets\images\gallery\footer-gallery-thumb-3.jpg
+wwwroot\ege roro\assets\images\gallery\footer-gallery-thumb-4.jpg
+wwwroot\ege roro\assets\images\gallery\footer-gallery-thumb-5.jpg
+wwwroot\ege roro\assets\images\gallery\footer-gallery-thumb-6.jpg
+wwwroot\ege roro\assets\images\icons\curve.jpg
+wwwroot\ege roro\assets\images\icons\flag.png
+wwwroot\ege roro\assets\images\icons\menu.png
+wwwroot\ege roro\assets\images\icons\menu-2.png
+wwwroot\ege roro\assets\images\icons\news-icon.png
+wwwroot\ege roro\assets\images\icons\step-icon-1.png
+wwwroot\ege roro\assets\images\icons\step-icon-2.png
+wwwroot\ege roro\assets\images\logo.png
+wwwroot\ege roro\assets\images\logo-2.png
+wwwroot\ege roro\assets\images\logo-small.png
+wwwroot\ege roro\assets\images\main-slider\circle-text.png
+wwwroot\ege roro\assets\images\main-slider\image-1.jpg
+wwwroot\ege roro\assets\images\main-slider\image-3.jpg
+wwwroot\ege roro\assets\images\main-slider\pattern-1.png
+wwwroot\ege roro\assets\images\main-slider\pattern-2.png
+wwwroot\ege roro\assets\images\prens-banner.jpg
+wwwroot\ege roro\assets\images\prens-buyuk.jpg
+wwwroot\ege roro\assets\images\proje-banner.jpg
+wwwroot\ege roro\assets\images\proje-buyuk.jpg
+wwwroot\ege roro\assets\images\resource\about-1.jpg
+wwwroot\ege roro\assets\images\resource\author-1.jpg
+wwwroot\ege roro\assets\images\resource\author-2.jpg
+wwwroot\ege roro\assets\images\resource\news-1.jpg
+wwwroot\ege roro\assets\images\resource\news-2.jpg
+wwwroot\ege roro\assets\images\resource\news-3.jpg
+wwwroot\ege roro\assets\images\resource\news-5.jpg
+wwwroot\ege roro\assets\images\resource\news-6.jpg
+wwwroot\ege roro\assets\images\resource\news-7.jpg
+wwwroot\ege roro\assets\images\resource\news-8.jpg
+wwwroot\ege roro\assets\images\resource\news-9.jpg
+wwwroot\ege roro\assets\images\resource\oppartunity.jpg
+wwwroot\ege roro\assets\images\resource\service-1.png
+wwwroot\ege roro\assets\images\resource\service-2.png
+wwwroot\ege roro\assets\images\resource\service-3.jpg
+wwwroot\ege roro\assets\images\resource\service-4.jpg
+wwwroot\ege roro\assets\images\resource\service-5.jpg
+wwwroot\ege roro\assets\images\resource\step-bg.png
+wwwroot\ege roro\assets\images\resource\team-1.jpg
+wwwroot\ege roro\assets\images\resource\team-2.jpg
+wwwroot\ege roro\assets\images\resource\team-5.jpg
+wwwroot\ege roro\assets\images\resource\team-6.jpg
+wwwroot\ege roro\assets\images\resource\team-7.jpg
+wwwroot\ege roro\assets\images\resource\team-8.jpg
+wwwroot\ege roro\assets\images\resource\team-author-1.jpg
+wwwroot\ege roro\assets\images\resource\testimonial.jpg
+wwwroot\ege roro\assets\images\resource\welcome.jpg
+wwwroot\ege roro\assets\images\tehlike-banner.jpg
+wwwroot\ege roro\assets\images\teklike-buyuk.jpg
+wwwroot\ege roro\assets\img\about\ab1.png
+wwwroot\ege roro\assets\img\about\ab2.jpg
+wwwroot\ege roro\assets\img\about\ab2.png
+wwwroot\ege roro\assets\img\about\ab3.png
+wwwroot\ege roro\assets\img\about\ab5.png
+wwwroot\ege roro\assets\img\about\ab6.png
+wwwroot\ege roro\assets\img\about\sign.png
+wwwroot\ege roro\assets\img\bg\add-bg.jpg
+wwwroot\ege roro\assets\img\bg\add-bg.png
+wwwroot\ege roro\assets\img\bg\bn-bg3.jpg
+wwwroot\ege roro\assets\img\bg\bread-bg.jpg
+wwwroot\ege roro\assets\img\bg\c-bg.jpg
+wwwroot\ege roro\assets\img\bg\cs-bg.jpg
+wwwroot\ege roro\assets\img\bg\f-bg.png
+wwwroot\ege roro\assets\img\bg\f-bg3.jpg
+wwwroot\ege roro\assets\img\bg\fq.jpg
+wwwroot\ege roro\assets\img\bg\img-mask.png
+wwwroot\ege roro\assets\img\bg\map.png
+wwwroot\ege roro\assets\img\bg\pm-bg.png
+wwwroot\ege roro\assets\img\bg\ser-bg.png
+wwwroot\ege roro\assets\img\bg\shape-bg.jpg
+wwwroot\ege roro\assets\img\bg\slider-bg.jpg
+wwwroot\ege roro\assets\img\bg\td-bg.png
+wwwroot\ege roro\assets\img\bg\v-bg.jpg
+wwwroot\ege roro\assets\img\bg\waves-shape.html
+wwwroot\ege roro\assets\img\bg\wc-bg.jpg
+wwwroot\ege roro\assets\img\bg\wc-bg2.jpg
+wwwroot\ege roro\assets\img\bg\wc-f-bg.jpg
+wwwroot\ege roro\assets\img\blog\bd-ig1.jpg
+wwwroot\ege roro\assets\img\blog\bd-ig2.jpg
+wwwroot\ege roro\assets\img\blog\blg1.jpg
+wwwroot\ege roro\assets\img\blog\blg2.1.jpg
+wwwroot\ege roro\assets\img\blog\blg2.2.jpg
+wwwroot\ege roro\assets\img\blog\blg2.3.jpg
+wwwroot\ege roro\assets\img\blog\blg2.jpg
+wwwroot\ege roro\assets\img\blog\blg3.3.jpg
+wwwroot\ege roro\assets\img\blog\blg3.4.jpg
+wwwroot\ege roro\assets\img\blog\blg3.5.jpg
+wwwroot\ege roro\assets\img\blog\blg3.jpg
+wwwroot\ege roro\assets\img\blog\blg4.jpg
+wwwroot\ege roro\assets\img\blog\blg-c1.jpg
+wwwroot\ege roro\assets\img\blog\blg-c2.jpg
+wwwroot\ege roro\assets\img\blog\bp1.jpg
+wwwroot\ege roro\assets\img\blog\bp2.jpg
+wwwroot\ege roro\assets\img\blog\bp3.jpg
+wwwroot\ege roro\assets\img\blog\bp4.jpg
+wwwroot\ege roro\assets\img\blog\nbp1.jpg
+wwwroot\ege roro\assets\img\blog\nbp2.jpg
+wwwroot\ege roro\assets\img\blog\rec1.jpg
+wwwroot\ege roro\assets\img\blog\rec2.jpg
+wwwroot\ege roro\assets\img\blog\rec3.jpg
+wwwroot\ege roro\assets\img\gallery\gl1.jpg
+wwwroot\ege roro\assets\img\gallery\gl2.jpg
+wwwroot\ege roro\assets\img\gallery\gl3.jpg
+wwwroot\ege roro\assets\img\gallery\gl4.jpg
+wwwroot\ege roro\assets\img\gallery\gl5.jpg
+wwwroot\ege roro\assets\img\gallery\gl6.jpg
+wwwroot\ege roro\assets\img\loader.svg
+wwwroot\ege roro\assets\img\logo\ficon.png
+wwwroot\ege roro\assets\img\logo\f-logo.svg
+wwwroot\ege roro\assets\img\logo\l-icon.png
+wwwroot\ege roro\assets\img\logo\logo.svg
+wwwroot\ege roro\assets\img\logo\logo2.png
+wwwroot\ege roro\assets\img\logo\logo3.png
+wwwroot\ege roro\assets\img\logo\logo4.png
+wwwroot\ege roro\assets\img\logo\logo5.png
+wwwroot\ege roro\assets\img\logo\logo-white.png
+wwwroot\ege roro\assets\img\mCSB_buttons.html
+wwwroot\ege roro\assets\img\project\cs1.jpg
+wwwroot\ege roro\assets\img\project\cs2.jpg
+wwwroot\ege roro\assets\img\project\cs3.jpg
+wwwroot\ege roro\assets\img\project\cs4.jpg
+wwwroot\ege roro\assets\img\project\ege-gaz-1.jpg
+wwwroot\ege roro\assets\img\project\ege-gaz-3.jpg
+wwwroot\ege roro\assets\img\project\pa.jpg
+wwwroot\ege roro\assets\img\project\port1.jpg
+wwwroot\ege roro\assets\img\project\port2.jpg
+wwwroot\ege roro\assets\img\project\port3.jpg
+wwwroot\ege roro\assets\img\project\port4.jpg
+wwwroot\ege roro\assets\img\project\prd.jpg
+wwwroot\ege roro\assets\img\project\pro1.jpg
+wwwroot\ege roro\assets\img\project\yener-ciner.jpg
+wwwroot\ege roro\assets\img\service\ege-gaz-1.jpg
+wwwroot\ege roro\assets\img\service\ege-gaz-3.jpg
+wwwroot\ege roro\assets\img\service\prens-adalari.jpg
+wwwroot\ege roro\assets\img\service\proje-tasimaciligi.jpg
+wwwroot\ege roro\assets\img\service\sd1.jpg
+wwwroot\ege roro\assets\img\service\sd2.jpg
+wwwroot\ege roro\assets\img\service\sd3.jpg
+wwwroot\ege roro\assets\img\service\ser1.jpg
+wwwroot\ege roro\assets\img\service\ser2.jpg
+wwwroot\ege roro\assets\img\service\ser4.2.jpg
+wwwroot\ege roro\assets\img\service\ser4.3.jpg
+wwwroot\ege roro\assets\img\service\ser4.4.jpg
+wwwroot\ege roro\assets\img\service\ser4.jpg
+wwwroot\ege roro\assets\img\service\ser6.jpg
+wwwroot\ege roro\assets\img\service\ser8.jpg
+wwwroot\ege roro\assets\img\service\tehlikeli-madde-roro-hizmetleri.jpg
+wwwroot\ege roro\assets\img\service\yener-ciner.jpg
+wwwroot\ege roro\assets\img\shape\ab-sh1.png
+wwwroot\ege roro\assets\img\shape\ab-sh2.png
+wwwroot\ege roro\assets\img\shape\exp-sh1.png
+wwwroot\ege roro\assets\img\shape\map.png
+wwwroot\ege roro\assets\img\shape\p-sh1.png
+wwwroot\ege roro\assets\img\shape\p-sh2.png
+wwwroot\ege roro\assets\img\shape\quote.png
+wwwroot\ege roro\assets\img\shape\sign-sh.png
+wwwroot\ege roro\assets\img\shape\tmd-sh.png
+wwwroot\ege roro\assets\img\shape\tm-sh.png
+wwwroot\ege roro\assets\img\shape\tm-sh2.png
+wwwroot\ege roro\assets\img\team\tm1.jpg
+wwwroot\ege roro\assets\img\team\tm2.jpg
+wwwroot\ege roro\assets\img\team\tm3.jpg
+wwwroot\ege roro\assets\img\team\tm4.jpg
+wwwroot\ege roro\assets\img\team\tm5.jpg
+wwwroot\ege roro\assets\img\team\tm6.jpg
+wwwroot\ege roro\assets\img\team\tm7.jpg
+wwwroot\ege roro\assets\img\team\tmd1.jpg
+wwwroot\ege roro\assets\img\testimonial\test2.1.jpg
+wwwroot\ege roro\assets\img\testimonial\tst1.jpg
+wwwroot\ege roro\assets\img\testimonial\tst2.jpg
+wwwroot\ege roro\assets\img\testimonial\tst-bg.jpg
+wwwroot\ege roro\assets\img\video\1.mp4
+wwwroot\ege roro\assets\img\video\2.mp4
+wwwroot\ege roro\assets\img\video\3.mp4
+wwwroot\ege roro\assets\img\video\4.mp4
+wwwroot\ege roro\assets\imgs\about\ab1.jpg
+wwwroot\ege roro\assets\imgs\about\ab10.jpg
+wwwroot\ege roro\assets\imgs\about\ab2.jpg
+wwwroot\ege roro\assets\imgs\about\ab3.jpg
+wwwroot\ege roro\assets\imgs\about\ab4.jpg
+wwwroot\ege roro\assets\imgs\about\ab5.jpg
+wwwroot\ege roro\assets\imgs\about\ab6.jpg
+wwwroot\ege roro\assets\imgs\about\ab7.jpg
+wwwroot\ege roro\assets\imgs\about\ab8.jpg
+wwwroot\ege roro\assets\imgs\about\ab9.jpg
+wwwroot\ege roro\assets\imgs\about\fq1.jpg
+wwwroot\ege roro\assets\imgs\bg\banner-bg.jpg
+wwwroot\ege roro\assets\imgs\bg\c-bg.jpg
+wwwroot\ege roro\assets\imgs\bg\cta-bg.jpg
+wwwroot\ege roro\assets\imgs\bg\f-bg3.jpg
+wwwroot\ege roro\assets\imgs\bg\h5-bg-section5.jpg
+wwwroot\ege roro\assets\imgs\bg\map.png
+wwwroot\ege roro\assets\imgs\bg\map2.png
+wwwroot\ege roro\assets\imgs\bg\map3.png
+wwwroot\ege roro\assets\imgs\bg\pattern-73.png
+wwwroot\ege roro\assets\imgs\bg\shape-02.png
+wwwroot\ege roro\assets\imgs\bg\sr-bg.jpg
+wwwroot\ege roro\assets\imgs\bg\tm-bg.jpg
+wwwroot\ege roro\assets\imgs\bg\tst-bg.jpg
+wwwroot\ege roro\assets\imgs\bg\vector-1.png
+wwwroot\ege roro\assets\imgs\bg\wc-f-bg.html
+wwwroot\ege roro\assets\imgs\blog\blg1.jpg
+wwwroot\ege roro\assets\imgs\blog\blg2.jpg
+wwwroot\ege roro\assets\imgs\blog\blg3.jpg
+wwwroot\ege roro\assets\imgs\blog\blg4.jpg
+wwwroot\ege roro\assets\imgs\blog\blg5.jpg
+wwwroot\ege roro\assets\imgs\blog\blg6.jpg
+wwwroot\ege roro\assets\imgs\blog\blg7.jpg
+wwwroot\ege roro\assets\imgs\blog\blg8.jpg
+wwwroot\ege roro\assets\imgs\blog\blg9.jpg
+wwwroot\ege roro\assets\imgs\gallery\gl1.jpg
+wwwroot\ege roro\assets\imgs\gallery\gl2.jpg
+wwwroot\ege roro\assets\imgs\gallery\gl3.jpg
+wwwroot\ege roro\assets\imgs\gallery\gl4.jpg
+wwwroot\ege roro\assets\imgs\gallery\gl5.jpg
+wwwroot\ege roro\assets\imgs\gallery\gl6.jpg
+wwwroot\ege roro\assets\imgs\gl1.jpg
+wwwroot\ege roro\assets\imgs\gl2.jpg
+wwwroot\ege roro\assets\imgs\gl3.jpg
+wwwroot\ege roro\assets\imgs\gl4.jpg
+wwwroot\ege roro\assets\imgs\icon\ars1.png
+wwwroot\ege roro\assets\imgs\icon\ars2.png
+wwwroot\ege roro\assets\imgs\icon\checked.png
+wwwroot\ege roro\assets\imgs\icon\ic1.png
+wwwroot\ege roro\assets\imgs\icon\ic2.png
+wwwroot\ege roro\assets\imgs\logo\ficon.html
+wwwroot\ege roro\assets\imgs\logo\logo2.png
+wwwroot\ege roro\assets\imgs\logo\logo3.png
+wwwroot\ege roro\assets\imgs\logo\logo4.html
+wwwroot\ege roro\assets\imgs\project\cs1.jpg
+wwwroot\ege roro\assets\imgs\project\cs2.jpg
+wwwroot\ege roro\assets\imgs\project\cs3.jpg
+wwwroot\ege roro\assets\imgs\project\cs4.jpg
+wwwroot\ege roro\assets\imgs\project\cs5.jpg
+wwwroot\ege roro\assets\imgs\project\cs6.jpg
+wwwroot\ege roro\assets\imgs\project\port1.jpg
+wwwroot\ege roro\assets\imgs\project\port2.jpg
+wwwroot\ege roro\assets\imgs\project\port3.jpg
+wwwroot\ege roro\assets\imgs\project\port4.jpg
+wwwroot\ege roro\assets\imgs\project\pr1.jpg
+wwwroot\ege roro\assets\imgs\project\pr2.jpg
+wwwroot\ege roro\assets\imgs\project\pr3.jpg
+wwwroot\ege roro\assets\imgs\project\pr4.jpg
+wwwroot\ege roro\assets\imgs\project\pr5.jpg
+wwwroot\ege roro\assets\imgs\project\pr6.jpg
+wwwroot\ege roro\assets\imgs\service\ser4.2.jpg
+wwwroot\ege roro\assets\imgs\service\ser4.3.jpg
+wwwroot\ege roro\assets\imgs\service\ser4.4.jpg
+wwwroot\ege roro\assets\imgs\service\ser4.jpg
+wwwroot\ege roro\assets\imgs\shape\ab-sh1.png
+wwwroot\ege roro\assets\imgs\slider\s1.jpg
+wwwroot\ege roro\assets\imgs\sponsor\sp1.png
+wwwroot\ege roro\assets\imgs\sponsor\sp2.png
+wwwroot\ege roro\assets\imgs\sponsor\sp3.png
+wwwroot\ege roro\assets\imgs\sponsor\sp4.png
+wwwroot\ege roro\assets\imgs\sponsor\sp5.png
+wwwroot\ege roro\assets\imgs\sponsor\sp6.png
+wwwroot\ege roro\assets\imgs\team\team1.jpg
+wwwroot\ege roro\assets\imgs\team\team2.jpg
+wwwroot\ege roro\assets\imgs\team\team3.jpg
+wwwroot\ege roro\assets\imgs\team\tm1.jpg
+wwwroot\ege roro\assets\imgs\team\tm2.jpg
+wwwroot\ege roro\assets\imgs\team\tm3.jpg
+wwwroot\ege roro\assets\imgs\team\tm4.jpg
+wwwroot\ege roro\assets\imgs\team\tmb1.png
+wwwroot\ege roro\assets\imgs\testimonial\tst9.png
+wwwroot\ege roro\assets\imgs\tm-sh.png
+wwwroot\ege roro\assets\imgs\ts1.png
+wwwroot\ege roro\assets\imgs\ts2.png
+wwwroot\ege roro\assets\imgs\ts3.png
+wwwroot\ege roro\assets\imgs\ts4.png
+wwwroot\ege roro\assets\imgs\ts5.png
+wwwroot\ege roro\assets\imgs\tst1.2.jpg
+wwwroot\ege roro\assets\imgs\tst1.jpg
+wwwroot\ege roro\assets\imgs\tst2.jpg
+wwwroot\ege roro\assets\imgs\tst-sh.png
+wwwroot\ege roro\assets\js\appear.js
+wwwroot\ege roro\assets\js\appear-two.js
+wwwroot\ege roro\assets\js\bootstrap.min.js
+wwwroot\ege roro\assets\js\gmaps.min.js
+wwwroot\ege roro\assets\js\imagesloaded.pkgd.min.js
+wwwroot\ege roro\assets\js\isotope.js
+wwwroot\ege roro\assets\js\isotope.pkgd.js
+wwwroot\ege roro\assets\js\jquery.counterup.min.js
+wwwroot\ege roro\assets\js\jquery.cssslider.min.js
+wwwroot\ege roro\assets\js\jquery.fancybox.js
+wwwroot\ege roro\assets\js\jquery.filterizr.js
+wwwroot\ege roro\assets\js\jquery.js
+wwwroot\ege roro\assets\js\jquery.magnific-popup.min.js
+wwwroot\ege roro\assets\js\jquery.mCustomScrollbar.concat.min.js
+wwwroot\ege roro\assets\js\jquery.min.js
+wwwroot\ege roro\assets\js\jquery.nice-select.min.js
+wwwroot\ege roro\assets\js\jquery.ui.touch-punch.min.js
+wwwroot\ege roro\assets\js\jquery-two.html
+wwwroot\ege roro\assets\js\jquery-ui.js
+wwwroot\ege roro\assets\js\jquery-ui.min.js
+wwwroot\ege roro\assets\js\knob.js
+wwwroot\ege roro\assets\js\owl.carousel.min.js
+wwwroot\ege roro\assets\js\parallax.min.js
+wwwroot\ege roro\assets\js\popper.min.js
+wwwroot\ege roro\assets\js\progress-bar.js
+wwwroot\ege roro\assets\js\rbtools.min.js
+wwwroot\ege roro\assets\js\rs6.min.js
+wwwroot\ege roro\assets\js\script.js
+wwwroot\ege roro\assets\js\script-two.js
+wwwroot\ege roro\assets\js\slick.js
+wwwroot\ege roro\assets\js\tilt.jquery.min.js
+wwwroot\ege roro\assets\js\typer.js
+wwwroot\ege roro\assets\js\waypoints.min.js
+wwwroot\ege roro\assets\js\wow.js
+wwwroot\ege roro\assets\js\wow.min.js
+wwwroot\ege roro\assets\plugins\revolution\assets\coloredbg.png
+wwwroot\ege roro\assets\plugins\revolution\assets\gridtile.png
+wwwroot\ege roro\assets\plugins\revolution\assets\gridtile_3x3.png
+wwwroot\ege roro\assets\plugins\revolution\assets\gridtile_3x3_white.png
+wwwroot\ege roro\assets\plugins\revolution\assets\gridtile_white.png
+wwwroot\ege roro\assets\plugins\revolution\assets\loader.gif
+wwwroot\ege roro\assets\plugins\revolution\css\closedhand.html
+wwwroot\ege roro\assets\plugins\revolution\css\layers.css
+wwwroot\ege roro\assets\plugins\revolution\css\navigation.css
+wwwroot\ege roro\assets\plugins\revolution\css\openhand.html
+wwwroot\ege roro\assets\plugins\revolution\css\settings.css
+wwwroot\ege roro\assets\plugins\revolution\fonts\revicons\revicons90c6.html
+wwwroot\ege roro\assets\plugins\revolution\fonts\revicons\revicons90c6.svg
+wwwroot\ege roro\assets\plugins\revolution\fonts\revicons\revicons90c6.ttf
+wwwroot\ege roro\assets\plugins\revolution\fonts\revicons\revicons90c6.woff
+wwwroot\ege roro\assets\plugins\revolution\js\extensions\revolution.extension.actions.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\extensions\revolution.extension.carousel.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\extensions\revolution.extension.kenburn.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\extensions\revolution.extension.layeranimation.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\extensions\revolution.extension.migration.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\extensions\revolution.extension.navigation.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\extensions\revolution.extension.parallax.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\extensions\revolution.extension.slideanims.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\extensions\revolution.extension.video.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\jquery.themepunch.revolution.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\jquery.themepunch.tools.min.js
+wwwroot\ege roro\assets\plugins\revolution\js\main-slider-script.js
+wwwroot\ege roro\assets\slider-1.jpg
+wwwroot\ege roro\assets\slider1.png
+wwwroot\ege roro\assets\slider-1-2.jpg
+wwwroot\ege roro\assets\slider-shape1.png
+wwwroot\ege roro\assets\s-truck-1.png
+wwwroot\ege roro\assets\trucker-g715fb0159_1920.jpg
+wwwroot\ege roro\demo\assets\assets\coloredbg.html
+wwwroot\ege roro\demo\assets\assets\gridtile.html
+wwwroot\ege roro\demo\assets\assets\gridtile_3x3.html
+wwwroot\ege roro\demo\assets\assets\gridtile_3x3_white.html
+wwwroot\ege roro\demo\assets\assets\gridtile_white.html
+wwwroot\ege roro\demo\assets\assets\loader.html
+wwwroot\ege roro\demo\assets\css\all.min.css
+wwwroot\ege roro\demo\assets\css\animate.css
+wwwroot\ege roro\demo\assets\css\bootstrap.min.css
+wwwroot\ege roro\demo\assets\css\closedhand.html
+wwwroot\ege roro\demo\assets\css\flaticon.css
+wwwroot\ege roro\demo\assets\css\magnific-popup.css
+wwwroot\ege roro\demo\assets\css\openhand.html
+wwwroot\ege roro\demo\assets\css\rs6.css
+wwwroot\ege roro\demo\assets\css\slick.css
+wwwroot\ege roro\demo\assets\css\style.css
+wwwroot\ege roro\demo\assets\fonts\fa-brands-400.html
+wwwroot\ege roro\demo\assets\fonts\fa-brands-400.svg
+wwwroot\ege roro\demo\assets\fonts\fa-brands-400.ttf
+wwwroot\ege roro\demo\assets\fonts\fa-brands-400.woff
+wwwroot\ege roro\demo\assets\fonts\fa-brands-400.woff2
+wwwroot\ege roro\demo\assets\fonts\fa-brands-400d41d.html
+wwwroot\ege roro\demo\assets\fonts\fa-regular-400.html
+wwwroot\ege roro\demo\assets\fonts\fa-regular-400.svg
+wwwroot\ege roro\demo\assets\fonts\fa-regular-400.ttf
+wwwroot\ege roro\demo\assets\fonts\fa-regular-400.woff
+wwwroot\ege roro\demo\assets\fonts\fa-regular-400.woff2
+wwwroot\ege roro\demo\assets\fonts\fa-regular-400d41d.html
+wwwroot\ege roro\demo\assets\fonts\fa-solid-900.html
+wwwroot\ege roro\demo\assets\fonts\fa-solid-900.svg
+wwwroot\ege roro\demo\assets\fonts\fa-solid-900.ttf
+wwwroot\ege roro\demo\assets\fonts\fa-solid-900.woff
+wwwroot\ege roro\demo\assets\fonts\fa-solid-900.woff2
+wwwroot\ege roro\demo\assets\fonts\fa-solid-900d41d.html
+wwwroot\ege roro\demo\assets\fonts\flaticon7bec.html
+wwwroot\ege roro\demo\assets\fonts\flaticon7bec.svg
+wwwroot\ege roro\demo\assets\fonts\flaticon7bec.ttf
+wwwroot\ege roro\demo\assets\fonts\flaticon7bec.woff
+wwwroot\ege roro\demo\assets\fonts\flaticon7bec.woff2
+wwwroot\ege roro\demo\assets\fonts\revicons\revicons90c6.html
+wwwroot\ege roro\demo\assets\fonts\revicons\revicons90c6-2.html
+wwwroot\ege roro\demo\assets\fonts\revicons\revicons90c6-3.html
+wwwroot\ege roro\demo\assets\fonts\revicons\revicons90c6-4.html
+wwwroot\ege roro\demo\assets\images\banner.jpg
+wwwroot\ege roro\demo\assets\images\dummy.png
+wwwroot\ege roro\demo\assets\images\envato.png
+wwwroot\ege roro\demo\assets\images\envato-logo.png
+wwwroot\ege roro\demo\assets\images\footer-bg.jpg
+wwwroot\ege roro\demo\assets\images\logo-black.png
+wwwroot\ege roro\demo\assets\images\logo-white.png
+wwwroot\ege roro\demo\assets\images\pages\hm1.png
+wwwroot\ege roro\demo\assets\images\pages\hm2.png
+wwwroot\ege roro\demo\assets\images\pages\hm3.png
+wwwroot\ege roro\demo\assets\images\pages\hm4.png
+wwwroot\ege roro\demo\assets\images\pages\hm5.png
+wwwroot\ege roro\demo\assets\images\pages\hm6.png
+wwwroot\ege roro\demo\assets\images\pages\hm7.png
+wwwroot\ege roro\demo\assets\images\pages\hm8.png
+wwwroot\ege roro\demo\assets\images\pages\hm9.png
+wwwroot\ege roro\demo\assets\images\pre.svg
+wwwroot\ege roro\demo\assets\js\bootstrap.min.js
+wwwroot\ege roro\demo\assets\js\countdown.js
+wwwroot\ege roro\demo\assets\js\counterup.min.js
+wwwroot\ege roro\demo\assets\js\easing.min.js
+wwwroot\ege roro\demo\assets\js\jquery.filterizr.min.js
+wwwroot\ege roro\demo\assets\js\jquery.magnific-popup.js
+wwwroot\ege roro\demo\assets\js\jquery-2.2.4.min.js
+wwwroot\ege roro\demo\assets\js\rbtools.min.js
+wwwroot\ege roro\demo\assets\js\rs6.min.js
+wwwroot\ege roro\demo\assets\js\script.js
+wwwroot\ege roro\demo\assets\js\slick.min.js
+wwwroot\ege roro\demo\assets\js\waypoints.min.js
+wwwroot\ege roro\demo\assets\js\wow.min.js
+wwwroot\ege roro\ege-gaz-1.html
+wwwroot\ege roro\ege-gaz-3.html
+wwwroot\ege roro\filomuz.html
+wwwroot\ege roro\galeri.html
+wwwroot\ege roro\hakkimizda.html
+wwwroot\ege roro\hizmetlerimiz.html
+wwwroot\ege roro\iletisim.html
+wwwroot\ege roro\index.html
+wwwroot\ege roro\prens-adalari.html
+wwwroot\ege roro\proje-tasimaciligi.html
+wwwroot\ege roro\tehlikeli-madde-roro-hizmetleri.html
+wwwroot\ege roro\yener-ciner.html
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

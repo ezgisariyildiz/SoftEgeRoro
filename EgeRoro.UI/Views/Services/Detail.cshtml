@@ -1,0 +1,84 @@
+﻿@model ServiceDetailViewModel
+
+<section id="ft-breadcrumb" class="ft-breadcrumb-section position-relative" data-background="/ege roro/assets/img/bg/bread-bg.jpg">
+    <span class="background_overlay"></span>
+    <span class="design-shape position-absolute"><img src="/ege roro/assets/img/shape/tmd-sh.png" alt=""></span>
+    <div class="container">
+        <div class="ft-breadcrumb-content headline text-center position-relative">
+            <h2>Hizmetlerimiz</h2>
+            <div class="ft-breadcrumb-list ul-li">
+                <ul>
+                    <li><a href="#">Ana Sayfa</a></li>
+                    <li>Hizmetlerimiz</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Start of Service details section
+    ============================================= -->
+<section id="ft-service-details" class="ft-service-details-section page-padding">
+    <div class="container">
+        <div class="ft-service-details-content">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="ft-service-sidebar">
+                        <div class="ft-service-sidebar-widget headline ul-li-block">
+                            <div class="service-category-widget">
+                                <h3 class="widget-title">Hizmetlerimiz</h3>
+                                <ul>
+                                    @Html.Raw(string.Join("", Model.AllServices.Select(s => $"<li><a href='/Services/Detail/{s.Id}'>{s.Title}</a></li>")))
+                                </ul>
+                            </div>
+
+                        </div>
+                        <div class="ft-service-sidebar-widget headline ul-li-block">
+                            <div class="service-form-widget">
+                                <h3 class="widget-title">Online Destek Hattı</h3>
+                                <form action="#">
+                                    <input type="text" placeholder="Adınız Soyadınız">
+                                    <input type="email" placeholder="E-Posta Adresiniz">
+                                    <input type="text" placeholder="Telefon Numaranız">
+                                    <textarea name="#" placeholder="Mesajınız"></textarea>
+                                    <button>Gönder</button>
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="ft-service-details-content-wrapper headline pera-content">
+                        <div class="ft-service-details-img-wrapper">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="ft-service-details-img">
+                                        <a href="/ege roro/assets/images/prens-buyuk.jpg" class="lightbox-link">
+                                            <img src="/ege roro/assets/images/prens-banner.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="ft-service-details-text-wrapper">
+                            <h3>
+                                @Model.SelectedService.Title
+                            </h3>
+
+                            <p>
+                                @Model.SelectedService.Description
+                            </p>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End of Service details section
+    ============================================= -->

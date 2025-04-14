@@ -1,0 +1,2333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EgeRoro.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EgeRoro.UI.fdfifrg5u3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\assets\\coloredbg.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\assets\\coloredbg.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\assets\\gridtile.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\assets\\gridtile.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\assets\\gridtile_3x3.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\assets\\gridtile_3x3.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\assets\\gridtile_3x3_white.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\assets\\gridtile_3x3_white.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\assets\\gridtile_white.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\assets\\gridtile_white.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\assets\\loader.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\assets\\loader.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\animated-slider.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\animated-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\closedhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\custom-animate.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\custom-animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\flaticon-02.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\flaticon-02.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\images\\ui-icons_444444_256x240.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\images\\ui-icons_444444_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\images\\ui-icons_555555_256x240.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\images\\ui-icons_555555_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\images\\ui-icons_777620_256x240.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\images\\ui-icons_777620_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\images\\ui-icons_777777_256x240.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\images\\ui-icons_777777_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\images\\ui-icons_cc0000_256x240.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\images\\ui-icons_cc0000_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\images\\ui-icons_ffffff_256x240.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\images\\ui-icons_ffffff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\openhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\rs6.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\rs6.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\css\\video.min.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\css\\video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\flaticon-02.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\flaticon-02.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\flaticon-02.svg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\flaticon-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\flaticon-02.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\flaticon-02.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\flaticon-02.woff",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\flaticon-02.woff"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\flaticon-02.woff2",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\flaticon-02.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\flaticon813b.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\flaticon813b.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\flaticon813b.svg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\flaticon813b.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\flaticon813b.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\flaticon813b.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\flaticon813b.woff",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\flaticon813b.woff"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\flaticon813b.woff2",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\flaticon813b.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\revicons\\revicons90c6.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\revicons\\revicons90c6.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\7.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\8.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\9.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-10.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-11.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-11.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-12.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-3.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-4.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-5.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-6.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-7.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-8.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\background\\pattern-9.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\background\\pattern-9.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\clients\\1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\clients\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\clients\\2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\clients\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\clients\\3.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\clients\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\clients\\4.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\clients\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\footer-logo-1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\footer-logo-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\gallery\\footer-gallery-thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\icons\\curve.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\icons\\curve.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\icons\\flag.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\icons\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\icons\\menu-2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\icons\\menu-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\icons\\menu.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\icons\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\icons\\news-icon.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\icons\\news-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\icons\\step-icon-1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\icons\\step-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\icons\\step-icon-2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\icons\\step-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\logo-small.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\logo-small.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\main-slider\\circle-text.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\main-slider\\circle-text.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\main-slider\\image-1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\main-slider\\image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\main-slider\\image-3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\main-slider\\image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\main-slider\\pattern-1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\main-slider\\pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\main-slider\\pattern-2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\main-slider\\pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\prens-banner.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\prens-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\prens-buyuk.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\prens-buyuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\proje-banner.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\proje-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\proje-buyuk.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\proje-buyuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\about-1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\author-1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\author-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\author-2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\author-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\news-1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\news-2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\news-3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\news-5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\news-6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\news-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\news-7.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\news-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\news-8.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\news-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\news-9.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\news-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\oppartunity.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\oppartunity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\service-1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\service-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\service-2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\service-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\service-3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\service-4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\service-5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\service-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\step-bg.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\step-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\team-1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\team-2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\team-5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\team-6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\team-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\team-7.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\team-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\team-8.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\team-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\team-author-1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\team-author-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\resource\\welcome.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\resource\\welcome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\tehlike-banner.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\tehlike-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\images\\teklike-buyuk.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\images\\teklike-buyuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\about\\ab1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\about\\ab1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\about\\ab2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\about\\ab2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\about\\ab2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\about\\ab2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\about\\ab3.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\about\\ab3.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\about\\ab5.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\about\\ab5.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\about\\ab6.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\about\\ab6.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\about\\sign.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\about\\sign.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\add-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\add-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\add-bg.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\add-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\bn-bg3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\bn-bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\bread-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\bread-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\c-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\c-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\cs-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\cs-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\f-bg.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\f-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\f-bg3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\f-bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\fq.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\fq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\img-mask.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\img-mask.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\map.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\pm-bg.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\pm-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\ser-bg.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\ser-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\shape-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\shape-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\slider-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\td-bg.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\td-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\v-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\v-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\waves-shape.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\waves-shape.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\wc-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\wc-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\wc-bg2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\wc-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\bg\\wc-f-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\bg\\wc-f-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\bd-ig1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\bd-ig1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\bd-ig2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\bd-ig2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg-c1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg-c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg-c2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg-c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg2.1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg2.1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg2.2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg2.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg2.3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg2.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg3.3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg3.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg3.4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg3.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg3.5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg3.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\blg4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\blg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\bp1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\bp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\bp2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\bp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\bp3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\bp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\bp4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\bp4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\nbp1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\nbp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\nbp2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\nbp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\rec1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\rec1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\rec2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\rec2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\blog\\rec3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\blog\\rec3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\gallery\\gl1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\gallery\\gl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\gallery\\gl2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\gallery\\gl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\gallery\\gl3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\gallery\\gl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\gallery\\gl4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\gallery\\gl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\gallery\\gl5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\gallery\\gl5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\gallery\\gl6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\gallery\\gl6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\loader.svg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\loader.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\logo\\f-logo.svg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\logo\\f-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\logo\\ficon.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\logo\\ficon.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\logo\\l-icon.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\logo\\l-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\logo\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\logo\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\logo\\logo3.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\logo\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\logo\\logo4.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\logo\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\logo\\logo5.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\logo\\logo5.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\mCSB_buttons.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\mCSB_buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\cs1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\cs1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\cs2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\cs2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\cs3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\cs3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\cs4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\cs4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\ege-gaz-1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\ege-gaz-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\ege-gaz-3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\ege-gaz-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\pa.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\pa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\port1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\port1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\port2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\port2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\port3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\port3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\port4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\port4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\prd.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\prd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\pro1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\pro1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\project\\yener-ciner.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\project\\yener-ciner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\ege-gaz-1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\ege-gaz-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\ege-gaz-3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\ege-gaz-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\prens-adalari.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\prens-adalari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\proje-tasimaciligi.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\proje-tasimaciligi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\sd1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\sd1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\sd2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\sd2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\sd3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\sd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\ser1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\ser1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\ser2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\ser2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\ser4.2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\ser4.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\ser4.3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\ser4.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\ser4.4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\ser4.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\ser4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\ser4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\ser6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\ser6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\ser8.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\ser8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\tehlikeli-madde-roro-hizmetleri.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\tehlikeli-madde-roro-hizmetleri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\service\\yener-ciner.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\service\\yener-ciner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\ab-sh1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\ab-sh1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\ab-sh2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\ab-sh2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\exp-sh1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\exp-sh1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\map.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\p-sh1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\p-sh1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\p-sh2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\p-sh2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\quote.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\sign-sh.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\sign-sh.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\tm-sh.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\tm-sh.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\tm-sh2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\tm-sh2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\shape\\tmd-sh.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\shape\\tmd-sh.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\team\\tm1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\team\\tm1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\team\\tm2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\team\\tm2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\team\\tm3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\team\\tm3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\team\\tm4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\team\\tm4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\team\\tm5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\team\\tm5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\team\\tm6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\team\\tm6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\team\\tm7.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\team\\tm7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\team\\tmd1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\team\\tmd1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\testimonial\\test2.1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\testimonial\\test2.1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\testimonial\\tst-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\testimonial\\tst-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\testimonial\\tst1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\testimonial\\tst1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\testimonial\\tst2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\testimonial\\tst2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\video\\1.mp4",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\video\\1.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\video\\2.mp4",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\video\\2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\video\\3.mp4",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\video\\3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\img\\video\\4.mp4",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\img\\video\\4.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\ab1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\ab1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\ab10.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\ab10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\ab2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\ab2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\ab3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\ab3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\ab4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\ab4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\ab5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\ab5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\ab6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\ab6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\ab7.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\ab7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\ab8.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\ab8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\ab9.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\ab9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\about\\fq1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\about\\fq1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\c-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\c-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\f-bg3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\f-bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\h5-bg-section5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\h5-bg-section5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\map.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\map2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\map2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\map3.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\map3.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\pattern-73.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\pattern-73.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\shape-02.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\shape-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\sr-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\sr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\tm-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\tm-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\tst-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\tst-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\vector-1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\vector-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\bg\\wc-f-bg.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\bg\\wc-f-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\blog\\blg1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\blog\\blg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\blog\\blg2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\blog\\blg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\blog\\blg3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\blog\\blg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\blog\\blg4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\blog\\blg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\blog\\blg5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\blog\\blg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\blog\\blg6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\blog\\blg6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\blog\\blg7.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\blog\\blg7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\blog\\blg8.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\blog\\blg8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\blog\\blg9.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\blog\\blg9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\gallery\\gl1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\gallery\\gl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\gallery\\gl2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\gallery\\gl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\gallery\\gl3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\gallery\\gl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\gallery\\gl4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\gallery\\gl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\gallery\\gl5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\gallery\\gl5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\gallery\\gl6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\gallery\\gl6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\gl1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\gl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\gl2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\gl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\gl3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\gl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\gl4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\gl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\icon\\ars1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\icon\\ars1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\icon\\ars2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\icon\\ars2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\icon\\checked.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\icon\\checked.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\icon\\ic1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\icon\\ic1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\icon\\ic2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\icon\\ic2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\logo\\ficon.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\logo\\ficon.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\logo\\logo3.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\logo\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\logo\\logo4.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\logo\\logo4.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\cs1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\cs1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\cs2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\cs2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\cs3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\cs3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\cs4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\cs4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\cs5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\cs5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\cs6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\cs6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\port1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\port1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\port2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\port2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\port3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\port3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\port4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\port4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\pr1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\pr1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\pr2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\pr2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\pr3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\pr3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\pr4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\pr4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\pr5.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\pr5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\project\\pr6.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\project\\pr6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\service\\ser4.2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\service\\ser4.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\service\\ser4.3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\service\\ser4.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\service\\ser4.4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\service\\ser4.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\service\\ser4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\service\\ser4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\shape\\ab-sh1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\shape\\ab-sh1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\slider\\s1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\slider\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\sponsor\\sp1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\sponsor\\sp1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\sponsor\\sp2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\sponsor\\sp2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\sponsor\\sp3.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\sponsor\\sp3.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\sponsor\\sp4.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\sponsor\\sp4.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\sponsor\\sp5.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\sponsor\\sp5.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\sponsor\\sp6.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\sponsor\\sp6.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\team\\team1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\team\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\team\\team2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\team\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\team\\team3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\team\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\team\\tm1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\team\\tm1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\team\\tm2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\team\\tm2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\team\\tm3.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\team\\tm3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\team\\tm4.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\team\\tm4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\team\\tmb1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\team\\tmb1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\testimonial\\tst9.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\testimonial\\tst9.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\tm-sh.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\tm-sh.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\ts1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\ts1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\ts2.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\ts2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\ts3.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\ts3.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\ts4.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\ts4.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\ts5.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\ts5.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\tst-sh.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\tst-sh.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\tst1.2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\tst1.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\tst1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\tst1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\imgs\\tst2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\imgs\\tst2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\appear-two.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\appear-two.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\appear.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\appear.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery-two.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery-two.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery.cssslider.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery.cssslider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery.filterizr.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery.filterizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\knob.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\knob.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\progress-bar.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\progress-bar.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\rbtools.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\rbtools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\rs6.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\rs6.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\script-two.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\script-two.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\typer.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\typer.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\wow.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\css\\closedhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\css\\openhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\fonts\\revicons\\revicons90c6.html",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\fonts\\revicons\\revicons90c6.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\plugins\\revolution\\js\\main-slider-script.js",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\plugins\\revolution\\js\\main-slider-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\s-truck-1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\s-truck-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\slider-1-2.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\slider-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\slider-shape1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\slider-shape1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\slider1.png",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\slider1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\assets\\trucker-g715fb0159_1920.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\assets\\trucker-g715fb0159_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\assets\\coloredbg.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\assets\\coloredbg.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\assets\\gridtile.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\assets\\gridtile.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\assets\\gridtile_3x3.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\assets\\gridtile_3x3.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\assets\\gridtile_3x3_white.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\assets\\gridtile_3x3_white.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\assets\\gridtile_white.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\assets\\gridtile_white.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\assets\\loader.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\assets\\loader.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\css\\closedhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\css\\openhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\css\\rs6.css",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\css\\rs6.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-brands-400.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-brands-400.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-brands-400d41d.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-brands-400d41d.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-regular-400.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-regular-400.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-regular-400d41d.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-regular-400d41d.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-solid-900.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-solid-900.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\fa-solid-900d41d.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\fa-solid-900d41d.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\flaticon7bec.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\flaticon7bec.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\flaticon7bec.svg",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\flaticon7bec.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\flaticon7bec.ttf",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\flaticon7bec.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\flaticon7bec.woff",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\flaticon7bec.woff"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\flaticon7bec.woff2",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\flaticon7bec.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\revicons\\revicons90c6-2.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\revicons\\revicons90c6-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\revicons\\revicons90c6-3.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\revicons\\revicons90c6-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\revicons\\revicons90c6-4.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\revicons\\revicons90c6-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\fonts\\revicons\\revicons90c6.html",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\fonts\\revicons\\revicons90c6.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\dummy.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\dummy.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\envato-logo.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\envato-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\envato.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\envato.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\logo-black.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\pages\\hm1.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\pages\\hm1.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\pages\\hm2.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\pages\\hm2.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\pages\\hm3.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\pages\\hm3.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\pages\\hm4.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\pages\\hm4.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\pages\\hm5.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\pages\\hm5.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\pages\\hm6.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\pages\\hm6.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\pages\\hm7.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\pages\\hm7.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\pages\\hm8.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\pages\\hm8.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\pages\\hm9.png",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\pages\\hm9.png"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\images\\pre.svg",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\images\\pre.svg"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\jquery.filterizr.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\jquery.filterizr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\rbtools.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\rbtools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\rs6.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\rs6.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\demo\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\ege roro\\demo\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\ege-gaz-1.html",
+      "PackagePath": "staticwebassets\\ege roro\\ege-gaz-1.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\ege-gaz-3.html",
+      "PackagePath": "staticwebassets\\ege roro\\ege-gaz-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\filomuz.html",
+      "PackagePath": "staticwebassets\\ege roro\\filomuz.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\galeri.html",
+      "PackagePath": "staticwebassets\\ege roro\\galeri.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\hakkimizda.html",
+      "PackagePath": "staticwebassets\\ege roro\\hakkimizda.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\hizmetlerimiz.html",
+      "PackagePath": "staticwebassets\\ege roro\\hizmetlerimiz.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\iletisim.html",
+      "PackagePath": "staticwebassets\\ege roro\\iletisim.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\index.html",
+      "PackagePath": "staticwebassets\\ege roro\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\prens-adalari.html",
+      "PackagePath": "staticwebassets\\ege roro\\prens-adalari.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\proje-tasimaciligi.html",
+      "PackagePath": "staticwebassets\\ege roro\\proje-tasimaciligi.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\tehlikeli-madde-roro-hizmetleri.html",
+      "PackagePath": "staticwebassets\\ege roro\\tehlikeli-madde-roro-hizmetleri.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\ege roro\\yener-ciner.html",
+      "PackagePath": "staticwebassets\\ege roro\\yener-ciner.html"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Softito\\repos\\EgeRoro\\EgeRoro.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EgeRoro.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EgeRoro.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EgeRoro.UI.props",
+      "PackagePath": "build\\EgeRoro.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EgeRoro.UI.props",
+      "PackagePath": "buildMultiTargeting\\EgeRoro.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EgeRoro.UI.props",
+      "PackagePath": "buildTransitive\\EgeRoro.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

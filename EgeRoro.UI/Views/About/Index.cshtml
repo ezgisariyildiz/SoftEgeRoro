@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "About Page";
+}
+
+
+<!-- Start of Breadcrumb section
+	============================================= -->
+<section id="ft-breadcrumb" class="ft-breadcrumb-section position-relative" data-background="/ege roro/assets/img/bg/bread-bg.jpg">
+	<span class="background_overlay"></span>
+	<span class="design-shape position-absolute"><img src="/ege roro/assets/img/shape/tmd-sh.png" alt=""></span>
+	<div class="container">
+		<div class="ft-breadcrumb-content headline text-center position-relative">
+			<h2>Hakkımızda</h2>
+			<div class="ft-breadcrumb-list ul-li">
+				<ul>
+					<li><a href="@Url.Action("Index", "About")">Hakkımızda</a></li>
+					<li>Hakkımızda</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End of Breadcrumb section
+	============================================= -->
+<!-- Start of About section
+	============================================= -->
+@await Component.InvokeAsync("_About")
+<!-- End of About section
+	============================================= -->
+<!-- Start of Video section
+	============================================= -->
+<section id="ft-video" class="ft-video-section">
+	<div class="container">
+		<div class="ft-video-content position-relative">
+			<div class="ft-video-img-play-btn">
+				<div class="ft-video-img">
+					<img src="/ege roro/assets/img/bg/v-bg.jpg" alt="">
+				</div>
+				<div class="ft-video-play">
+					<a class="d-flex justify-content-center align-items-center position-relative video_box" href="https://www.youtube.com/watch?v=C4jjFanHZo8">
+						<i class="fas fa-play"></i>
+						<span class="video_btn_border border_wrap-1"></span>
+						<span class="video_btn_border border_wrap-2"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End of Video section
+	============================================= -->
+

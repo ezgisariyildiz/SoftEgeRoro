@@ -1,0 +1,33 @@
+﻿@using EgeRoro.Entity.Identity
+@model User
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="bg-info text-white">Kullanıcı Oluştur</h1>
+
+<a asp-action="Index" class="btn btn-sm btn-primary">Geri</a>
+
+<div asp-validation-summary="All" class="text-danger">
+    <form method="post">
+
+        <div class="group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+
+        <div class="group">
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+
+        <div class="group">
+            <label asp-for="Password"></label>
+            <input asp-for="Password" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+
+    </form>
+</div>
+

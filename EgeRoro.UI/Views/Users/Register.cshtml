@@ -1,0 +1,35 @@
+﻿@model EgeRoro.UI.Models.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="card shadow-lg p-4" style="width: 400px;">
+        <h2 class="text-center mb-4">Register</h2>
+        <form method="post" asp-action="Register">
+            <div class="mb-3">
+                <label for="FullName" class="form-label">Full Name</label>
+                <input type="text" class="form-control" id="FullName" name="FullName" required />
+            </div>
+            <div class="mb-3">
+                <label for="UserName" class="form-label">UserName</label>
+                <input type="text" class="form-control" id="UserName" name="UserName" required />
+            </div>
+            <div class="mb-3">
+                <label for="Email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="Email" name="Email" required />
+            </div>
+            <div class="mb-3">
+                <label for="Password" class="form-label">Password</label>
+                <input type="password" class="form-control" id="Password" name="Password" required />
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Register</button>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <div class="error">@error.ErrorMessage</div>
+            }
+
+        </form>
+    </div>
+</div>

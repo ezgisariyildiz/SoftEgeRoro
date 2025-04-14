@@ -1,0 +1,10 @@
+﻿@model List<Service>
+
+<ul class="dropdown-menu clearfix">
+    @foreach (var item in Model)
+    {
+        <li>
+            <a href="/Services/Detail/@item.Id">@item.Title</a>
+        </li>
+    }
+</ul>
