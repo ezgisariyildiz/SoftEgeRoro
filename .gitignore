@@ -1,0 +1,29 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+
+## Visual Studio
+.vs/
+
+## Paketler
+packages/
+*.nupkg
+*.snupkg
+
+## Publish klasörü
+publish/
+
+## Diğer
+*.log
+*.tmp

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\EgeRoro.UI.props" />
-</Project>
